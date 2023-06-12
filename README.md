@@ -1,4 +1,4 @@
-# Iris_Recognition_Project
+# Iris Recognition
 Proyecto final sobre el reconocimiento del iris de una persona y la extracción de sus características.
 
 Este proyecto se basa en reconocer las diferentes características que se forman en el iris del ojo de cada individuo, a través de técnicas perteneciente a las áreas del procesamiento de imágenes y al aprendizaje de maquina se logra reconocer la pupila y el iris de la persona y así segmentar esta parte del ojo.
